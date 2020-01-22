@@ -23,7 +23,7 @@ How to Install and Run
 ```
 
 Or feel free to sign up and use the app here:
-  https://safe-caverns-35797.herokuapp.com/users/sign_in
+  https://safe-caverns-35797.herokuapp.com/
 
 Technologies Used:
 
