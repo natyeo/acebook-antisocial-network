@@ -22,6 +22,9 @@ How to Install and Run
 > bin/rails server # Start the server at localhost:3000.
 ```
 
+Or feel free to sign up and use the app here:
+  https://safe-caverns-35797.herokuapp.com/users/sign_in
+
 Technologies Used:
 
 | Technology    | Purpose       |
