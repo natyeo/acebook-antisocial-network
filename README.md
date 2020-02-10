@@ -32,6 +32,5 @@ Or feel free to sign up and use the app here:
 | SimpleCov | Test coverage |
 | RuboCop | Linter |
 | CircleCI | Continuous Integration |
-| Git | Version controll |
-| AWS (Elastic Beanstalk | Cloud deployment |
-| RDS | Cloud hosted database (in Production) |
+| Git | Version control |
+| Heroku | Cloud deployment |
